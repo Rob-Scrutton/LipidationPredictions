@@ -18,8 +18,6 @@ The script outputs PyTorch .pt files containing:
     - lipid_site_representations: Per-residue embeddings for specified positions
     - sequence: The input sequence
     - sequence_length: Length of the sequence
-
-Author: [Your Name]
 """
 
 import pathlib
